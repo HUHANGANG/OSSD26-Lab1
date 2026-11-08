@@ -16,3 +16,7 @@
 ## 作者: HWANGCHEOLMIN
 
 2026/11/08 update README
+2026/11/08 OSSD26-Lab1 (modified in C4 branch)
+
+
+
