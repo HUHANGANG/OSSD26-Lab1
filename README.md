@@ -14,3 +14,5 @@
 4. 在线 Git 练习（Learn Git Branching）
 
 ## 作者: HWANGCHEOLMIN
+
+2026/11/08 update README
